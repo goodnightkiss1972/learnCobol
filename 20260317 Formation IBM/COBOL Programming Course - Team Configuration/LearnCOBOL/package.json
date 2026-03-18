@@ -1,0 +1,13 @@
+{
+  "name": "learncobol",
+  "version": "1.0.0",
+  "description": "essai 2.7.2 programmatic usage",
+  "license": "ISC",
+  "author": "Fabien Cortial",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "clg": "zowe jobs submit ds 'Z77732.JCL(HELLO)' -d .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
