@@ -1,0 +1,6 @@
+Note de f4b le 18 mars 2026
+***************************
+
+Dans la formation IBM tout se fait à distance sur le mainframe,
+les fichiers locaux dans les sous-répertoires ne sont pas modifiés (ils sont toujours en date du checkout le 12 mars)
+Il faudra éventuellement penser à rappatrier ceux du mainframe si c'est possible.
